@@ -1,3 +1,2 @@
-Testing GitHub to Splunk webhook
-Triggered at 2nd attempt
+Webhook test at 12:05 PM
 
