@@ -1,1 +1,1 @@
-# splunk-github-test
+Testing GitHub to Splunk webhook
